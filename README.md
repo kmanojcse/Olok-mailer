@@ -1,0 +1,2 @@
+# Olok-mailer
+It is a Desktop Application to provide the functionality of attaching a file with the email &amp; send emails to multiple recipients together but with the functionality to change the email body dynamically. E-mail client program, which will have both of above mentioned functionalities in an integrated program, which will be easy to useTo extend the email utility by providing an environment having mail merge and file attachment functionality and simplify the process
